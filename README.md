@@ -35,30 +35,32 @@ Some of the Feedbacks By Dapp Developers on user experience are :
 
 Github Repo / Developers / Projects Who are using/working on  meta Trsansactions / Universal Logins
 
-1. http://twitter.com/austingriffith?lang=en
+1. https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1078.md
 
-2. https://medium.com/@abcoathup/evolution-of-decentralised-social-media-dfe567d23e54
+2. http://twitter.com/austingriffith?lang=en
 
-3. https://www.youtube.com/watch?v=qF2lhJzngto&feature=youtu.be
+3. https://medium.com/@abcoathup/evolution-of-decentralised-social-media-dfe567d23e54
 
-4. https://github.com/status-im/contracts/tree/master/contracts/identity
+4. https://www.youtube.com/watch?v=qF2lhJzngto&feature=youtu.be
 
-5. https://github.com/uport-project/lambda-sensui
+5. https://github.com/status-im/contracts/tree/master/contracts/identity
 
-6. https://medium.com/@avsa/universal-logins-update-new-live-demo-b3d5dcbec681
+6. https://github.com/uport-project/lambda-sensui
 
-7. https://www.youtube.com/watch?v=GQDxKRqEKEo
+7. https://medium.com/@avsa/universal-logins-update-new-live-demo-b3d5dcbec681
 
-8. https://www.youtube.com/watch?v=9gyZRq162A8
+8. https://www.youtube.com/watch?v=GQDxKRqEKEo
 
-9. https://www.youtube.com/watch?v=gv5EF8_u4Ks&feature=youtu.be&t=534
+9. https://www.youtube.com/watch?v=9gyZRq162A8
 
-10. https://github.com/horizon-games/ERC20-meta-wrapper
+10. https://www.youtube.com/watch?v=gv5EF8_u4Ks&feature=youtu.be&t=534
 
-11. https://github.com/ConsenSys/SensuiMod
+11. https://github.com/horizon-games/ERC20-meta-wrapper
 
-12. https://github.com/uport-project/lambda-sensui
+12. https://github.com/ConsenSys/SensuiMod
 
-13. https://media.consensys.net/operation-spring-mainstream-e-commerce-on-the-ethereum-blockchain-6b65f870cb16
+13. https://github.com/uport-project/lambda-sensui
+
+14. https://media.consensys.net/operation-spring-mainstream-e-commerce-on-the-ethereum-blockchain-6b65f870cb16
 
 
