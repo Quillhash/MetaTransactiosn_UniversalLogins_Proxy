@@ -63,4 +63,6 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 14. https://media.consensys.net/operation-spring-mainstream-e-commerce-on-the-ethereum-blockchain-6b65f870cb16
 
+15. https://www.youtube.com/channel/UC5rc5OmS0BlqMbUfFrXpxag
+
 
