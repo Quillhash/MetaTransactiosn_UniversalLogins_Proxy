@@ -65,4 +65,6 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 15. https://www.youtube.com/channel/UC5rc5OmS0BlqMbUfFrXpxag
 
+16. https://medium.com/8xprotocol
+
 
