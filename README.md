@@ -67,4 +67,16 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 16. https://medium.com/8xprotocol
 
+17. https://medium.com/@austin_48503/ethereum-meta-transactions-90ccf0859e84
+
+18. https://medium.com/coinmonks/gasless-transactions-f75382095c4f
+
+19. https://www.youtube.com/watch?v=y_eMO0kX3Ws
+
+20. https://medium.com/gitcoin/technical-deep-dive-architecture-choices-for-subscriptions-on-the-blockchain-erc948-5fae89cabc7a
+
+21.https://medium.com/gitcoin/eip-1337-subscriptions-launches-eacbb947e229
+
+22. https://medium.com/@e2toe4/ethereum-meta-transactions-36f10448619
+
 
