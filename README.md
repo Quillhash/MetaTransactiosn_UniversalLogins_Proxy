@@ -79,4 +79,6 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 22. https://medium.com/@e2toe4/ethereum-meta-transactions-36f10448619
 
+23. https://www.stateofthedapps.com/dapps/ethbattle -https://www.reddit.com/r/ethereum/comments/aqaxx8/ive_implemented_eth_metatransactions_for_my_game/
+
 
