@@ -83,6 +83,6 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 24. https://github.com/tabookey/tabookey-gasless
 
-25. https://github.com/tabookey/tabookey-gasless
+25. https://medium.com/groundhog-network/the-gas-station-network-alliance-6fd543e7eca3
 
 
