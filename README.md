@@ -89,3 +89,5 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 27. https://hackernoon.com/ethereum-ux-tools-the-ultimate-guide-aad1cd2c128
 
+28. https://medium.com/nifty-gateway/introducing-the-nifty-gateway-wallet-bd55acf76cd0
+
