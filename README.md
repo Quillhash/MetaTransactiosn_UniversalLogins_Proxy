@@ -91,3 +91,5 @@ Github Repo / Developers / Projects Who are using/working on  meta Trsansactions
 
 28. https://medium.com/nifty-gateway/introducing-the-nifty-gateway-wallet-bd55acf76cd0
 
+29. https://medium.com/lamarkaz/dai-in-the-hands-of-all-8ed335879ae9
+
