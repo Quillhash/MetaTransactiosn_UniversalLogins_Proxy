@@ -10,6 +10,8 @@ Some of the Feedbacks By Dapp Developers on user experience are :
 ![Screenshot](user_adoption.png)
 
  
+How meta transactions works ? : - https://medium.com/@andreafspeziale/understanding-ethereum-meta-transaction-d0d632da4eb2
+
 1.  Creating a wallet, getting coins, and explaining what gas is were mentioned among the aspects that developers found difficult to explain when they first reached out to their audiences.
 
 2. Getting them started with a wallet and explaining that they’ll have to ‘sign in’ to that wallet using widely varying software, some of which has a high incidence of fraud and failure, and that they can’t ever lose (or change!) that password or else they’ll permanently lose access to everything — that’s a hard sell without some seriously good onboarding tools.
